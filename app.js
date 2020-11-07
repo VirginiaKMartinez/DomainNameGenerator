@@ -1,3 +1,7 @@
+/*Create a script that generate all the 
+possible domain name combinations from a list 
+of pronouns, adjectives and nouns*/
+
 let pronoun = ['the','our', 'yours'];
 let adj = ['great', 'big','small' ];
 let noun = ['jogger','racoon','dog'];
